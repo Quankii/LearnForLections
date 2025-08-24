@@ -4,7 +4,7 @@ string name = Console.ReadLine();
 
 if(name.ToLower() == "артем")
 {
-    Console.WriteLine("Привееееет Артем :) ");
+    Console.WriteLine("Привееееет Артем :)  ");
 } else
 {
     Console.WriteLine("Пр, " + name);
