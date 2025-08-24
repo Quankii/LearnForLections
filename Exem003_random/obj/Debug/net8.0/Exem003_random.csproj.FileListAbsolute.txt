@@ -1,0 +1,15 @@
+C:\projects\Exemp\LearnForLections\Exem003_random\bin\Debug\net8.0\Exem003_random.exe
+C:\projects\Exemp\LearnForLections\Exem003_random\bin\Debug\net8.0\Exem003_random.deps.json
+C:\projects\Exemp\LearnForLections\Exem003_random\bin\Debug\net8.0\Exem003_random.runtimeconfig.json
+C:\projects\Exemp\LearnForLections\Exem003_random\bin\Debug\net8.0\Exem003_random.dll
+C:\projects\Exemp\LearnForLections\Exem003_random\bin\Debug\net8.0\Exem003_random.pdb
+C:\projects\Exemp\LearnForLections\Exem003_random\obj\Debug\net8.0\Exem003_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Exemp\LearnForLections\Exem003_random\obj\Debug\net8.0\Exem003_random.AssemblyInfoInputs.cache
+C:\projects\Exemp\LearnForLections\Exem003_random\obj\Debug\net8.0\Exem003_random.AssemblyInfo.cs
+C:\projects\Exemp\LearnForLections\Exem003_random\obj\Debug\net8.0\Exem003_random.csproj.CoreCompileInputs.cache
+C:\projects\Exemp\LearnForLections\Exem003_random\obj\Debug\net8.0\Exem003_random.sourcelink.json
+C:\projects\Exemp\LearnForLections\Exem003_random\obj\Debug\net8.0\Exem003_random.dll
+C:\projects\Exemp\LearnForLections\Exem003_random\obj\Debug\net8.0\refint\Exem003_random.dll
+C:\projects\Exemp\LearnForLections\Exem003_random\obj\Debug\net8.0\Exem003_random.pdb
+C:\projects\Exemp\LearnForLections\Exem003_random\obj\Debug\net8.0\Exem003_random.genruntimeconfig.cache
+C:\projects\Exemp\LearnForLections\Exem003_random\obj\Debug\net8.0\ref\Exem003_random.dll
