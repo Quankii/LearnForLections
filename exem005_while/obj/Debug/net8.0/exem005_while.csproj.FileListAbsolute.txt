@@ -1,0 +1,15 @@
+C:\projects\Exemp\LearnForLections\exem005_while\bin\Debug\net8.0\exem005_while.exe
+C:\projects\Exemp\LearnForLections\exem005_while\bin\Debug\net8.0\exem005_while.deps.json
+C:\projects\Exemp\LearnForLections\exem005_while\bin\Debug\net8.0\exem005_while.runtimeconfig.json
+C:\projects\Exemp\LearnForLections\exem005_while\bin\Debug\net8.0\exem005_while.dll
+C:\projects\Exemp\LearnForLections\exem005_while\bin\Debug\net8.0\exem005_while.pdb
+C:\projects\Exemp\LearnForLections\exem005_while\obj\Debug\net8.0\exem005_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Exemp\LearnForLections\exem005_while\obj\Debug\net8.0\exem005_while.AssemblyInfoInputs.cache
+C:\projects\Exemp\LearnForLections\exem005_while\obj\Debug\net8.0\exem005_while.AssemblyInfo.cs
+C:\projects\Exemp\LearnForLections\exem005_while\obj\Debug\net8.0\exem005_while.csproj.CoreCompileInputs.cache
+C:\projects\Exemp\LearnForLections\exem005_while\obj\Debug\net8.0\exem005_while.sourcelink.json
+C:\projects\Exemp\LearnForLections\exem005_while\obj\Debug\net8.0\exem005_while.dll
+C:\projects\Exemp\LearnForLections\exem005_while\obj\Debug\net8.0\refint\exem005_while.dll
+C:\projects\Exemp\LearnForLections\exem005_while\obj\Debug\net8.0\exem005_while.pdb
+C:\projects\Exemp\LearnForLections\exem005_while\obj\Debug\net8.0\exem005_while.genruntimeconfig.cache
+C:\projects\Exemp\LearnForLections\exem005_while\obj\Debug\net8.0\ref\exem005_while.dll
