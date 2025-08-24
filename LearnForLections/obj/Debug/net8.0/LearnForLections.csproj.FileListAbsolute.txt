@@ -1,0 +1,14 @@
+C:\projects\Exemp\LearnForLections\LearnForLections\bin\Debug\net8.0\LearnForLections.exe
+C:\projects\Exemp\LearnForLections\LearnForLections\bin\Debug\net8.0\LearnForLections.deps.json
+C:\projects\Exemp\LearnForLections\LearnForLections\bin\Debug\net8.0\LearnForLections.runtimeconfig.json
+C:\projects\Exemp\LearnForLections\LearnForLections\bin\Debug\net8.0\LearnForLections.dll
+C:\projects\Exemp\LearnForLections\LearnForLections\bin\Debug\net8.0\LearnForLections.pdb
+C:\projects\Exemp\LearnForLections\LearnForLections\obj\Debug\net8.0\LearnForLections.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Exemp\LearnForLections\LearnForLections\obj\Debug\net8.0\LearnForLections.AssemblyInfoInputs.cache
+C:\projects\Exemp\LearnForLections\LearnForLections\obj\Debug\net8.0\LearnForLections.AssemblyInfo.cs
+C:\projects\Exemp\LearnForLections\LearnForLections\obj\Debug\net8.0\LearnForLections.csproj.CoreCompileInputs.cache
+C:\projects\Exemp\LearnForLections\LearnForLections\obj\Debug\net8.0\LearnForLections.dll
+C:\projects\Exemp\LearnForLections\LearnForLections\obj\Debug\net8.0\refint\LearnForLections.dll
+C:\projects\Exemp\LearnForLections\LearnForLections\obj\Debug\net8.0\LearnForLections.pdb
+C:\projects\Exemp\LearnForLections\LearnForLections\obj\Debug\net8.0\LearnForLections.genruntimeconfig.cache
+C:\projects\Exemp\LearnForLections\LearnForLections\obj\Debug\net8.0\ref\LearnForLections.dll
