@@ -1,0 +1,15 @@
+C:\projects\Exemp\LearnForLections\Exem004_if\bin\Debug\net8.0\Exem004_if.exe
+C:\projects\Exemp\LearnForLections\Exem004_if\bin\Debug\net8.0\Exem004_if.deps.json
+C:\projects\Exemp\LearnForLections\Exem004_if\bin\Debug\net8.0\Exem004_if.runtimeconfig.json
+C:\projects\Exemp\LearnForLections\Exem004_if\bin\Debug\net8.0\Exem004_if.dll
+C:\projects\Exemp\LearnForLections\Exem004_if\bin\Debug\net8.0\Exem004_if.pdb
+C:\projects\Exemp\LearnForLections\Exem004_if\obj\Debug\net8.0\Exem004_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Exemp\LearnForLections\Exem004_if\obj\Debug\net8.0\Exem004_if.AssemblyInfoInputs.cache
+C:\projects\Exemp\LearnForLections\Exem004_if\obj\Debug\net8.0\Exem004_if.AssemblyInfo.cs
+C:\projects\Exemp\LearnForLections\Exem004_if\obj\Debug\net8.0\Exem004_if.csproj.CoreCompileInputs.cache
+C:\projects\Exemp\LearnForLections\Exem004_if\obj\Debug\net8.0\Exem004_if.sourcelink.json
+C:\projects\Exemp\LearnForLections\Exem004_if\obj\Debug\net8.0\Exem004_if.dll
+C:\projects\Exemp\LearnForLections\Exem004_if\obj\Debug\net8.0\refint\Exem004_if.dll
+C:\projects\Exemp\LearnForLections\Exem004_if\obj\Debug\net8.0\Exem004_if.pdb
+C:\projects\Exemp\LearnForLections\Exem004_if\obj\Debug\net8.0\Exem004_if.genruntimeconfig.cache
+C:\projects\Exemp\LearnForLections\Exem004_if\obj\Debug\net8.0\ref\Exem004_if.dll
